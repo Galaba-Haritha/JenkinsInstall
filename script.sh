@@ -1,3 +1,4 @@
+curl -fsSL http://get.docker.com -o get-docker.sh
 apt update
 apt install fontconfig openjdk-21-jre
 sudo wget -O /etc/apt/keyrings/jenkins-keyring.asc \
